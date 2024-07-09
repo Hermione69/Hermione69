@@ -80,7 +80,7 @@
  
 <br/>
 
-<div align="center"> ![GitHub streak stats](https://streak-stats.demolab.com/?user=Hermione69) </div>
+<a align="center"> ![GitHub streak stats](https://streak-stats.demolab.com/?user=Hermione69) </a>
 
 <br/>
 
