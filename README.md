@@ -78,7 +78,7 @@
 <div align="center"> ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Hermione69&show_icons=true) 
  
 
-<div align="center" > ![GitHub streak stats](https://streak-stats.demolab.com/?user=Hermione69) </div>
+align="center" > ![GitHub streak stats](https://streak-stats.demolab.com/?user=Hermione69) </div>
 
 <br/>
 
@@ -97,5 +97,3 @@
 
 <br />
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
