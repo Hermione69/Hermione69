@@ -82,28 +82,15 @@
 <br/>  
 
 
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hermione69&hide_border=true&layout=compact" 
-<br/>
-
-
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Hermione69)](https://github.com/ryo-ma/github-profile-trophy)
-
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Hermione69&show_icons=true) 
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=Hermione69) 
-
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=cdrqme070mcraj4ybxgqi17e9)
-
-
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Hermione69&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Hermione69&theme=tokyonight&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hermione69&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)<br/>
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Hermione69&theme=discord&no-bg=true&no-frame=true&margin-h=0&margin-w=5)
+
+
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=cdrqme070mcraj4ybxgqi17e9)
 
 
 
