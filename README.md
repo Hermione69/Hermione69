@@ -83,8 +83,7 @@
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=Hermione69) 
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=cdrqme070mcraj4ybxgqi17e9&width={width})
-
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=cdrqme070mcraj4ybxgqi17e9)
 
 
 </div>
