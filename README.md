@@ -78,9 +78,9 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Hermione69)](https://github.com/ryo-ma/github-profile-trophy)
 <br/>  
-![GitHub streak stats](https://streak-stats.demolab.com/?user=Hermione69)  
+<div> align="center" ![GitHub streak stats](https://streak-stats.demolab.com/?user=Hermione69)  </div>
 <br/>  
-[![trophy](https://github-profile-trophy.vercel.app/?username=Hermione69)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 
 
