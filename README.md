@@ -74,7 +74,7 @@
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hermione69&hide_border=true&layout=compact" 
 <br/>
-[![trophy](https://github-profile-trophy.vercel.app/?username=Hermione69)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Hermione69&show_icons=true) 
 
