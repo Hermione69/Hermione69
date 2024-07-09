@@ -75,9 +75,8 @@
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hermione69&hide_border=true&layout=compact" align="center" /></div>  
 
 
-<div align="center"> ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Hermione69&show_icons=true)  </div>
+<div align="center"> ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Hermione69&show_icons=true) 
  
-<br/>
 
 <div align="center" > ![GitHub streak stats](https://streak-stats.demolab.com/?user=Hermione69) </div>
 
