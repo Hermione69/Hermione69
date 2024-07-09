@@ -58,11 +58,25 @@
 
 
 ## Connect with me  
-<div align="center">
-<a href="https://twitter.com/Gourab_Ckm" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>  
-</div>  
+<div align="left">
+  <a href="https://www.youtube.com/channel/UCT7GCbqyxjID9YB6cv3rWMQ" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+  </a>
+  <a href="@S3xyL4gg3r" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
+  </a>
+  <a href="https://x.com/Gourab_Ckm" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  </a>
+  <a href="https://www.twitch.tv/gourab_himself" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitch/default.svg" width="52" height="40" alt="twitch logo"  />
+  </a>
+  <a href="https://discord.gg/tNGU8jWf" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  </a>
+</div>
+
+###
   
 
 <br/>  
@@ -86,7 +100,7 @@
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=cdrqme070mcraj4ybxgqi17e9)
 
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=cdrqme070mcraj4ybxgqi17e9&unique={true|1|on|yes})
+
 
 </div>
 
