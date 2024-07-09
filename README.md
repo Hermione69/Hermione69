@@ -15,7 +15,7 @@
 <br/>  
 
 
-## My Skill Set 
+## 💻 My Skill Set 
 
 </td><td valign="top" width="33%">
 <div align="center">  
@@ -57,7 +57,7 @@
 <br/>  
 
 
-## Connect with me  
+## 👨 Connect with me  
 <div align="left">
   <a href="https://www.youtube.com/channel/UCT7GCbqyxjID9YB6cv3rWMQ" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
@@ -102,6 +102,9 @@
 ![](https://github-readme-stats.vercel.app/api?username=Hermione69&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Hermione69&theme=tokyonight&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hermione69&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)<br/>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Hermione69&theme=discord&no-bg=true&no-frame=true&margin-h=0&margin-w=5)
+
 
 
 
