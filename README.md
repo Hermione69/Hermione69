@@ -77,9 +77,11 @@
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Hermione69&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Hermione69)](https://github.com/ryo-ma/github-profile-trophy)
-<br/>  
-![GitHub streak stats](https://streak-stats.demolab.com/?user=Hermione69)
-<br/>  
+ 
+
+
+<div align="center"> ![GitHub streak stats](https://streak-stats.demolab.com/?user=Hermione69) </div>
+
 
 
 
