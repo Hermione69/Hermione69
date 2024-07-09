@@ -78,7 +78,7 @@
 <div align="center"> ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Hermione69&show_icons=true) 
  
 
-align="center" > ![GitHub streak stats](https://streak-stats.demolab.com/?user=Hermione69) </div>
+![GitHub streak stats](https://streak-stats.demolab.com/?user=Hermione69) </div>
 
 <br/>
 
