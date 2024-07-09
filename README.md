@@ -86,6 +86,8 @@
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=cdrqme070mcraj4ybxgqi17e9)
 
 
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=cdrqme070mcraj4ybxgqi17e9&unique={true|1|on|yes})
+
 </div>
 
 <br/>
