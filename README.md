@@ -98,9 +98,6 @@
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=cdrqme070mcraj4ybxgqi17e9)
 
 
-  <a href="https://open.spotify.com/user/GourabHimSelf">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=GourabHimSelf&count=5&unique=true" alt="Spotify recently played"  />
-  </a>
 
 </div>
 
