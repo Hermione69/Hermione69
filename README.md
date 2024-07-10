@@ -3,7 +3,7 @@
 </div>  
   
 
-### **<div align="center">I'm Hermione! I'm a A passionate Learner from Harry Potter!</div>**  
+### **<div align="center">Elloooo..!! I'm Hermione! I'm a  passionate Learner from Harry Potter!</div>**  
   
 
 - **🔭 I’m currently working on my own projects.**  
